@@ -1,0 +1,123 @@
+    1  help
+    2  clear
+    3  git
+    4  sh git
+    5  apt update && apt upgrade
+    6  apt install git openssh
+    7  apt install openssh
+    8  apt install git
+    9  termux-setup-storage
+   10  ssh
+   11  ssh-keygen -t rsa -C denzpagaduan@gmail.com
+   12  ssh -T git@github.com
+   13  ssh-keygen -t rsa -C denzpagaduan@gmail.com
+   14  id_rsa.pub
+   15  cat root/.ssh/id_rsa.pub
+   16  cat /root/.ssh/id_rsa.pub
+   17  cat /root/.ssh/id_rsa/id_rsa.pub
+   18  list
+   19  pwd
+   20  .ssh
+   21  pwd help
+   22  cd
+   23  cd ls
+   24  ls
+   25  cat id_rsa.pub
+   26  clear
+   27  ssh -T git@github.com
+   28  list
+   29  ls
+   30  cT key.pub
+   31  cat key.pub
+   32  ssh -T git@github.com
+   33  chmod 600
+   34  chmod 600 /root/id_rsa.pub
+   35  chmod 600 /root/id_r
+   36  nano /root/id_rsa.pub
+   37  apt install nano
+   38  nano /root/id_rsa.pub
+   39  mkdir linux_practice
+   40  cd linux_practice
+   41  echo "" >>notes.txt
+   42  ls
+   43  pwd note.txt
+   44  echo "hello,linux" >>notes.txt
+   45  echo "this is a practidal exam" >>notes.txt
+   46  pwd notes.txt
+   47  mkdir subdir
+   48  mv
+   49  mv notes.txt subdir
+   50  ls
+   51  cd subdir
+   52  ls
+   53  cd
+   54  cd exam
+   55  cd 234908208_pagaduan
+   56  cd linux_practice
+   57  help
+   58  rn
+   59  ren
+   60  help
+   61  rename
+   62  name
+   63  ren
+   64  rn
+   65  cp notes.txt linux_practice
+   66  cp
+   67  cp --help
+   68  copy
+   69  help
+   70  cp
+   71  cp notes.txt
+   72  display git
+   73  ver
+   74  gh ver
+   75  gh --version
+   76  ssh --version
+   77  date
+   78  uotime
+   79  uptime
+   80  /proc/uptime
+   81  cd
+   82  uptime
+   83  /proc/uptimd
+   84  /proc/uptime
+   85  du -s
+   86  date
+   87  du -s
+   88  gh --ver
+   89  gh --version
+   90  date
+   91  du -sh
+   92  gh --version
+   93  wsl --version
+   94  wsl
+   95  ssh --version
+   96  ssh
+   97  --version
+   98  cd linux practice
+   99  cd linux_practice
+  100  cd exam
+  101  cd 234908208_pagaduan
+  102  la
+  103  ls
+  104  cd linux_practice
+  105  mv subdir practice_dir
+  106  cp notes.txt linux_practice
+  107  cs practice_subdir
+  108  cd practice_subdir
+  109  ls
+  110  mv practice_dir practice_subdir
+  111  cd practice_subdir
+  112  cp notes.txt practice_linux
+  113  date
+  114  /proc/uptime
+  115  du -s
+  116  gh --version
+  117  ls
+  118  cd exam
+  119  la
+  120  cd 234908208_Pagaduan
+  121  cd 234908208_pagaduan
+  122  git  checkout -b finalexam
+  123  history >exam_log.txt
